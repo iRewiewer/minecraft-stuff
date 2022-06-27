@@ -1,2 +1,2 @@
-# minecraft-stuff
-Plugins and mods I'm (prolly) working on
+# Minecraft Stuff
+Plugins and mods I'm (prolly) working on.
