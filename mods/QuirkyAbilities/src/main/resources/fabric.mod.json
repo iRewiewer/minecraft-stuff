@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "quirkyabilities",
+  "version": "${version}",
+  "name": "Quirkyabilities",
+  "description": "Quirky abilities for you to use",
+  "authors": [
+    "iRewiewer"
+  ],
+  "contact": {
+    "website": "https://dev.irewiewer.net/programming-projects/java/minecraft-mods/quirky-abilities",
+    "repo": "https://github.com/iRewiewer/minecraft-stuff/tree/main/mods/QuirkyAbilities/"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/quirkyabilities/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.irewiewer.quirkyabilities.quirkyabilities.client.QuirkyabilitiesClient"
+    ],
+    "main": [
+      "net.irewiewer.quirkyabilities.quirkyabilities.Quirkyabilities"
+    ]
+  },
+  "mixins": [
+    "quirkyabilities.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}
