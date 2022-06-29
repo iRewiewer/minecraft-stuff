@@ -5,239 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d2118f-721f-4adf-a4d5-23fc772caf93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/.github/ISSUE_TEMPLATE/BUG-REPORT.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/.github/ISSUE_TEMPLATE/FEATURE-REQUEST.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/.github/ISSUE_TEMPLATE/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/checkstyle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/copyright.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/docs/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/docs/COPYING.LESSER" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/ClientVeinMiningMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/VeinMiningMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/config/AutoConfigPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/config/VeinMiningConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/config/VeinMiningConfigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/integration/VeinMiningModMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/mixin/ServerPlayerInteractionManagerMixin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/network/VeinMiningNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningEnchantment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningPlayers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/logic/BlockGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/logic/BlockProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/java/top/theillusivec4/veinmining/veinmining/logic/VeinMiningLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/assets/veinmining/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/assets/veinmining/lang/pt_br.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/assets/veinmining/lang/zh_cn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/assets/veinmining/veinmining_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/data/c/tags/blocks/ores.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/fabric.mod.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/fabric/src/main/resources/veinmining.mixins.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/VeinMiningMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/config/ClientVeinMiningConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/config/VeinMiningConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/mixin/MixinServerPlayerGameMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/network/CPacketState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/network/VeinMiningNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningEnchantment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/VeinMiningPlayers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/event/VeinMiningClientEventsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/event/VeinMiningEventsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/logic/BlockGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/logic/BlockProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/java/top/theillusivec4/veinmining/veinmining/logic/VeinMiningLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/META-INF/mods.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/assets/veinmining/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/assets/veinmining/lang/pt_br.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/assets/veinmining/lang/zh_cn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/pack.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/veinmining.mixins.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VeinMining-1.18.x/forge/src/main/resources/veinmining_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/MCGradle Scripts.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/MCGradle Scripts.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/MCGradle Scripts.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/build.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/full_clean.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/genEclipseRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/genIntellijRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/internal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/internal/check_update.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/internal/get_mod_name.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/setup_eclipse.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/PowerShell/setup_intellij.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/UPDATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/build.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/full_clean.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/genEclipseRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/genIntellijRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/setup_eclipse.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/Windows/setup_intellij.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/full_clean.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/genEclipseRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/genIntellijRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/internal/check_update.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/setup_eclipse.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/Scripts/bash/setup_intellij.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/publish.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashEntityEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashKeyRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/DashingEnchantment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/network/PacketHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/java/com/legacy/dash/network/c_to_s/DashVisualsPacket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/resources/META-INF/mods.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/resources/assets/dash/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/resources/assets/dash/lang/ko_kr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/resources/assets/dash/sounds.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dash-1.19.x/src/main/resources/pack.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/MCGradle Scripts.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/MCGradle Scripts.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/MCGradle Scripts.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/build.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/full_clean.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/genEclipseRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/genIntellijRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/internal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/internal/check_update.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/internal/get_mod_name.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/setup_eclipse.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/PowerShell/setup_intellij.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/UPDATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/build.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/full_clean.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/genEclipseRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/genIntellijRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/setup_eclipse.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/Windows/setup_intellij.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/full_clean.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/genEclipseRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/genIntellijRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/internal/check_update.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/setup_eclipse.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/Scripts/bash/setup_intellij.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/publish.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/LeapEntityEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/LeapKeyRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/LeapMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/LeapRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/LeapingEnchantment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/client/LeapClientEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/network/PacketHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/network/c_to_s/DoubleJumpPacket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/player/LeapPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/player/util/CapabilityProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/java/com/legacy/leap/player/util/ILeapPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/META-INF/mods.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/lang/ko_kr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/lang/ru_ru.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/lang/zh_cn.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/lang/zh_tw.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/assets/leap/sounds.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leap-1.19.x/src/main/resources/pack.mcmeta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/MCGradle Scripts.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/MCGradle Scripts.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/MCGradle Scripts.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/build.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/full_clean.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/genEclipseRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/genIntellijRuns.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/internal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/internal/check_update.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/internal/get_mod_name.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/setup_eclipse.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/PowerShell/setup_intellij.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/UPDATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/build.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/full_clean.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/genEclipseRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/genIntellijRuns.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/setup_eclipse.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/Windows/setup_intellij.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/full_clean.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/genEclipseRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/genIntellijRuns.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/internal/check_update.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/setup_eclipse.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/Scripts/bash/setup_intellij.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/publish.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/java/com/legacy/step/StepEntityEvents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/java/com/legacy/step/StepMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/java/com/legacy/step/StepRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/java/com/legacy/step/SteppingEnchantment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/resources/META-INF/mods.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/resources/assets/step/lang/en_us.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/resources/assets/step/lang/ru_ru.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../step-1.19.x/src/main/resources/pack.mcmeta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/sounds.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -278,10 +46,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/iRewiewer/Documents/Github Tmp/minecraft-stuff/mods/QuirkyAbilities",
+    "last_opened_file_path": "C:/Users/iRewiewer/Documents/Github Tmp/minecraft-stuff/mods/QuirkyAbilities/src/main/resources/assets",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iRewiewer\Documents\Github Tmp\minecraft-stuff\mods\QuirkyAbilities\src\main\resources\assets" />
+    </key>
+  </component>
   <component name="RunManager" selected="Gradle.quirkyabilities build">
     <configuration name="quirkyabilities build" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
@@ -321,7 +97,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

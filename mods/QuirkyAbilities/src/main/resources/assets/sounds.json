@@ -1,0 +1,11 @@
+{
+  "entity.player.dash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "entity.phantom.flap",
+        "type": "event"
+      }
+    ]
+  }
+}
