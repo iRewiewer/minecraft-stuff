@@ -1,33 +1,38 @@
 {
   "schemaVersion": 1,
-  "id": "quirkyabilities",
+  "id": "modid",
   "version": "${version}",
-  "name": "Quirkyabilities",
-  "description": "Quirky abilities for you to use",
+
+  "name": "Example Mod",
+  "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "iRewiewer"
+    "Me!"
   ],
   "contact": {
-    "website": "https://dev.irewiewer.net/programming-projects/java/minecraft-mods/quirky-abilities",
-    "repo": "https://github.com/iRewiewer/minecraft-stuff/tree/main/mods/QuirkyAbilities/"
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
-  "license": "GPL-3.0",
-  "icon": "assets/quirkyabilities/icon.png",
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "net.irewiewer.quirkyabilities.quirkyabilities.client.QuirkyabilitiesClient"
-    ],
     "main": [
-      "net.irewiewer.quirkyabilities.quirkyabilities.Quirkyabilities"
+      "net.fabricmc.example.ExampleMod"
     ]
   },
   "mixins": [
-    "quirkyabilities.mixins.json"
+    "modid.mixins.json"
   ],
+
   "depends": {
-    "fabricloader": ">=0.14.8",
+    "fabricloader": ">=0.14.6",
     "fabric": "*",
-    "minecraft": "1.19"
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
   }
 }
