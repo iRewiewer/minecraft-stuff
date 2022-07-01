@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "quirkyabilities",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Quirky Abilities",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "iRewiewer"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://dev.irewiewer.net",
+    "sources": "https://github.com/iRewiewer/minecraft-stuff"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPL-3.0",
+  "icon": "assets/quirkyabilities/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.irewiewer.QuirkyAbilities.Main"
     ]
   },
   "mixins": [
