@@ -1,0 +1,3 @@
+[submodule "Mods/diamond-shards"]
+	path = Mods/diamond-shards
+	url = https://github.com/iRewiewer/diamond-shards.git
