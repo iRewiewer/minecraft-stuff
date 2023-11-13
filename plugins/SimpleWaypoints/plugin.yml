@@ -1,0 +1,19 @@
+name: SimpleWaypoints
+main: me.irewiewer.SimpleWaypoints
+version: 1.0
+commands:
+   sw:
+      description: Displays the help section.
+      usage: /sw
+      
+   sw add:
+      description: Add a new waypoint to your personal list.
+      usage: /sw add <name> <x> <y> <z> [comments]
+      
+   sw del:
+      description: Add a new waypoint to your personal list.
+      usage: /sw del <name>
+      
+   sw list:
+      description: Displays your personal waypoints list.
+      usage: /sw list

@@ -1,0 +1,7 @@
+name: LimitedLives
+main: me.irewiewer.LimitedLives
+version: 1.0
+commands:
+    checklives:
+        description: Check how many lives you have remaining.
+        usage: /checklives

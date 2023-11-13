@@ -1,0 +1,23 @@
+main: me.irewiewer.MobTweaks.Main
+name: MobTweaks
+version: 0.5
+description: QoL additions and other stuff
+author: iRewiewer
+api-version: 1.18
+commands:
+  kit:
+    usage: /kit <name> [player]
+    description: Gives the kit <name> to self, or to a <player> if specified 
+    aliases: []
+  max:
+    usage: /max [level]
+    description: Enchants the item in hand with every enchantment to the maximum level, or to the specified level.
+    aliases: []
+  uhc:
+    usage: /uhc
+    description: Enables UHC Mode
+    aliases: []
+  rank:
+    usage: /rank <player> <rank>
+    description: Gives <player> rank <rank>
+    aliases: []

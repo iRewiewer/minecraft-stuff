@@ -1,0 +1,13 @@
+main: me.irewiewer.silktouchhand.main
+name: SilkTouchHand
+version: 0.1
+description: Share the touch of the chosen ones.
+author: iRewiewer
+api-version: 1.16
+commands:
+    bless:
+        usage: /bless <player>
+        description: If you are one of the chosen ones, you may share your gift with others.
+    blessed:
+        usage: /blessed
+        description: Check if you are part of the chosen ones.

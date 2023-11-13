@@ -1,0 +1,7 @@
+name: LevelRank
+main: me.irewiewer.LevelRank
+version: 1.1
+commands:
+    levelrank:
+        description: Tells the player their rank based on their level.
+        usage: /levelrank

@@ -1,0 +1,11 @@
+main: net.irewiewer.pupsilandia.Main
+name: Pupsilandia
+version: 1.0
+description: The Pupsilandia plugin provides a plethora of tweaks to the vanilla game specifically made for the Pupsilandia server.
+author: iRewiewer
+api-version: 1.18
+commands:
+    fly:
+        usage: /fly
+        description: Grants flight to Survival/Adventure players
+        aliases: []
